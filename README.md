@@ -31,7 +31,7 @@ print(b)
 
 ```
 ## Output:
-![output]()
+![output](https://github.com/RuchithaReddy28/Norm-Matrix/blob/main/2_norm%20of%20matrix.png?raw=true)
 
 
 
